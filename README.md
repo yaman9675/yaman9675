@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yaman9675
 - 👀 I’m interested in ...Data Scientist
-- 🌱 I’m currently learning ...Python, SQL, ML, AI and ANN
+- 🌱 I’m currently learning ...Python, SQL, ML, AI and DL
 - 💞️ I’m looking to collaborate on ...Data Analysis
 - 📫 How to reach me ...linkedIn - www.linkedin.com/in/eryamansaini14 & kaggle - https://www.kaggle.com/yamansaini
 
